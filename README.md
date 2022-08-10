@@ -6,6 +6,7 @@
 * A dedicated portal is required to enable the NGOs to input the progress on a monthly basis.
 * For the purpose of impact monitoring, data visualization is required for the administrator to visualize the progress in any particular task at a given time.
 * Once the data is uploaded, validation of the NGOs should be done by email.
+  [http://bangalorefoodbank.com/]
 
 ## Proposed Solution
 * Manage data in an organized manner.
