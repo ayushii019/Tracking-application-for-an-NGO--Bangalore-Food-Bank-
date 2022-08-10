@@ -1,5 +1,5 @@
 
-# Team 59[StackUnderFlow] - Code For Good Hackathon 2022
+# Team 59 [StackUnderFlow] - Code For Good Hackathon 2022
 
 ## Problem Statement
 * The current process of tracking the progress of various programs executed by the NGO - Bangalore Food Bank is manual, hence unorganized and difficult to track. 
