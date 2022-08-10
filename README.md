@@ -1,18 +1,18 @@
 
-# Team 59 - CFG 2022
+# Team 59[StackUnderFlow] - Code For Good Hackathon 2022
 
 ## Problem Statement
-* The current process of tracking the progress of various programs executed by BFB is manual, hence unorganized and difficult to track 
+* The current process of tracking the progress of various programs executed by the NGO - Bangalore Food Bank is manual, hence unorganized and difficult to track. 
 * A dedicated portal is required to enable the NGOs to input the progress on a monthly basis.
-* For the purpose of impact monitoring, data visualization is required for the administrator to visualize the progress in any particular task at a given time
-* Validation of the NGOs
+* For the purpose of impact monitoring, data visualization is required for the administrator to visualize the progress in any particular task at a given time.
+* Once the data is uploaded, validation of the NGOs should be done by email.
 
 ## Proposed Solution
 * Manage data in an organized manner.
 * User-friendly portal to filter and visualize the program specific progress of the NGOs.
 * Visualize progress achieved in any particular task at any given time.
 * Generate reports based on KPIs.
-* Pre recorded voice mail is send once the NGO gets enrolled.
+* Pre recorded voice mail is sent for validation, once the NGO gets enrolled.
 
 
 
@@ -80,17 +80,17 @@ npm start
 
 ## Authors
 
-- Kush Dang
-- Ashwani Prasad
-- Ayushi Verma
-- Preeti Arya
-- Samyuktha
-- Raj Sanghavi
-- Varshini
-- Navneet
+- Ayushi Verma [GNITS, Hyderabad]
+- Ashwani Prasad [VIT, Chennai]
+- Kush Dang [VIT, Vellore]
+- Preeti Arya [MANIT, Bhopal]
+- Samyuktha Gadipelly [VNR VJIET, Hyderabad]
+- Raj Sanghavi [DJSCE, Mumbai]
+- Varshini Tolpadi [RVCE, Bangalore]
+- Navneet Melarkode [VIT, Vellore]
 
 ## Our mentors
 
-- Vishnu Vardhan J N
-- Sivakumar Rajarethinam
+- Mr. Vishnu Vardhan J N [Associate at JP Morgan Chase & Co.]
+- Mr. Sivakumar Rajarethinam [Vice President at JP Morgan Chase & Co.]
 
